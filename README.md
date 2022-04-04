@@ -1,4 +1,4 @@
-# Finance Practical Approaches
+# Practical applications in Finance
 
 > You can find all our posts on [stAI tuned](url)! 
 
